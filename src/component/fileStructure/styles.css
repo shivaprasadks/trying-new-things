@@ -1,0 +1,13 @@
+.nodeItem {
+  margin: 5px 10px;
+}
+.folderItem {
+  cursor: pointer;
+}
+.endItem {
+  margin-left: 20px;
+  cursor: pointer;
+}
+.highlight {
+  background-color: azure;
+}

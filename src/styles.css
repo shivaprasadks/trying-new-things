@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.progress {
+  margin: 10px;
+  padding: 4px;
+  border-radius: 10px;
+  border: 1px solid #dfdfdf;
+  width: 200px;
+}
