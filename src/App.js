@@ -1,5 +1,6 @@
-import FileStructureApp from "./component/fileStructure";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import FileStructureApp from "./component/fileStructure";
+
 export default function App() {
   return (
     <Router>
