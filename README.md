@@ -1,2 +1,2 @@
 # trying-new-things
-Created with CodeSandbox
+This is an experimental app to work on JS problem solving
